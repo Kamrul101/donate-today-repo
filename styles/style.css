@@ -219,3 +219,25 @@ header {
   font-weight: 500;
   font-size: 15px;
 }
+.end {
+  text-align: center;
+  background: #0b0d17;
+}
+.humble {
+  font-weight: 700;
+  font-size: 30px;
+  margin-top: 40px;
+  color: #ff5959;
+  padding-top: 50px;
+  font-family: "Lobster";
+}
+.ending {
+  font-weight: 400;
+  font-size: 14px;
+
+  font-feature-settings: "liga" off;
+
+  color: #d9dbe1;
+  padding-top: 20px;
+  padding-bottom: 70px;
+}
