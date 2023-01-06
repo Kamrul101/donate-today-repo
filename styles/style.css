@@ -178,3 +178,44 @@ header {
 .donate-image {
   width: 600px;
 }
+.update {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  background: #fff4d6;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.update-description {
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 18px;
+  color: #707070;
+}
+.email {
+  background: #d9d9d9;
+  border-radius: 5px 0px 0px 5px;
+  width: 275px;
+  height: 48px;
+  border: 0;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+}
+.email:focus {
+  outline: none;
+}
+.submit {
+  width: 150px;
+  height: 50px;
+  background: #ff5959;
+  border-radius: 0px 5px 5px 0px;
+  color: white;
+  border: 0;
+  margin-left: -10px;
+  font-weight: 500;
+  font-size: 15px;
+}
